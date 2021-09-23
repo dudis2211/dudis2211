@@ -2,11 +2,11 @@
 
 ## I'm Eduardo!
 
-:computer: I intend to be Back-End Developer.
+:computer: Studying now to be Junior Java Developer.
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JavaScript with some HTML projects and CSS. I also know some technologies like Spring, H2, Maven and JPA
+:books: I’m currently learning JavaScript with some HTML projects and CSS. I also know some technologies like Spring, H2, Maven and JPA.
 
 :outbox_tray: 2021 Goals: Find a new job with amazing projects!
 
