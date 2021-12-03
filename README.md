@@ -2,7 +2,7 @@
 
 ## I'm Eduardo!
 
-:computer: Studying now to be Junior Java Developer.
+:computer: Certificate in Junior Java Developer.
 
 :house_with_garden: I’m from Brazil.
 
